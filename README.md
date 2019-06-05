@@ -1,8 +1,10 @@
 #	Diagnosing of Urinary Diseases Using ML  
 
-## About this Application
+## Application Type
 
-	We have used Machine Learning using Regularized Logistic Regression to perform the diagnosing of the acute inflammations of urinary bladder and acute nephritises. The data is created by a medical expert.
+	This is a Machine Learning project which used Regularized Logistic Regression to perform the diagnosing of the acute inflammations of urinary bladder and acute nephritises. The data is created by a medical expert.
+
+## About Diseases
 
 	Acute inflammation of urinary bladder is characterised by sudden occurrence of pains in the abdomen region and the urination in form of constant urine pushing, micturition pains and sometimes lack of urine keeping. Temperature of the body is rising, however most often not above 38C. The excreted urine is turbid and sometimes bloody. At proper treatment, symptoms decay usually within several days. However, there is inclination to returns. At persons with acute inflammation of urinary bladder, we should expect that the illness will turn into protracted form.
 
