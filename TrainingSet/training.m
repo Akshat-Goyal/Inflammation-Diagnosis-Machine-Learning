@@ -63,4 +63,6 @@ hold on;
 plot(lambda_vec,J3(:,2));
 legend('J1','J2','J3');
 
-% lambda = 0.001 gives best accuracy on cross-validation set and test set.
+% lambda = 0.001 gives best result on cross-validation set.
+
+% theta = [-6.40242 ,-2.53137 ,6.41191 ,-10.74731 ,13.87736 ,6.53072 ,-1.73427; -19.76393 ,7.38195 ,10.18248 ,10.87613 ,5.57733 ,-0.60511 ,5.65223];
